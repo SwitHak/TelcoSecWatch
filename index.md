@@ -2,8 +2,7 @@
 
 ## Wh(y|at) is TelcoSecWatch?
 I create this place to dissociated the both sides of my technical watch.
-TelcoSecWatch (#TSW) will be a place where I will share all the things related to Telecommunications Security.
-The idea behind is to share, write or just to index some useful resources related to Telecommunications security but also the innovation and research regarding Telecommunications, more specifically, the new 5G.
+TelcoSecWatch (#TSW) will be a place where the idea behind is to share, write or just to index some useful resources related to Telecommunications security but also the innovation and research regarding Telecommunications, more specifically, the new 5G.
 
 # Content
 
