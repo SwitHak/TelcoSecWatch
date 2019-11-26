@@ -54,7 +54,7 @@
 
 ## CONFERENCE - WIRELESS - DEFCON 27
 - The DEFCON 27 Wireless village conferences are available on YouTube
-- Source: https://youtu.be/3eSo5v35rpw
+- Source: [Playlist YouTube](https://youtu.be/3eSo5v35rpw)
 
 #### Postscriptum
 If you spotted errors, missing information or anything you want to report, feel free to contact me on Twitter: [@SwitHak](https://twitter.com/swithak/)
