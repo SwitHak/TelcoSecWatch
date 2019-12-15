@@ -6,6 +6,8 @@ TelcoSecWatch (#TSW) will be a place where the idea behind is to share, write or
 
 # Content
 
+### 2019-12-15 15:36 GMT - TSW -- Telecommunications Security Watch - 3 -- By SwitHak - [EN] - [Blog Post](https://swithak.github.io/TelcoSecWatch/Pub/5G/Resources/Blog/4-Telecommunications-Security-Watch-3)
+
 ### 2019-11-24 06:27 GMT - TSW -- Telecommunications Security Watch - 2 -- By SwitHak - [EN] - [Blog Post](https://swithak.github.io/TelcoSecWatch/Pub/5G/Resources/Blog/3-Telecommunications-Security-Watch-2)
 
 ### 2019-11-11 03:31 GMT - TSW -- Telecommunications Security Watch - 1 -- By SwitHak - [EN] - [Blog Post](https://swithak.github.io/TelcoSecWatch/Pub/5G/Resources/Blog/2-Telecommunications-Security-Watch-1)
