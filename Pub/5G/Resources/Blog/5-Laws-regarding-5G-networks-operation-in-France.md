@@ -7,6 +7,8 @@
 # Regulations 
 ## LAW No. 2019-810 of 1 August 2019 aimed at safeguarding France's defence and national security interests in connection with the operation of mobile radio network
 
+### Source: [LAW No. 2019-810 of 1 August 2019 aimed at safeguarding France's defence and national security interests in connection with the operation of mobile radio network](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038864094&dateTexte=20191222)
+
 ### Article 1
 Amended the following provisions :
 #### Creates: Postal and Electronic Communications Code (PCC) - Section 7: System of prior authorization for the operation of radio network equipment (V)
@@ -46,7 +48,10 @@ to preserve the interests of defence and national security, the operation on nat
 
 ---
 
-## Decree of 6 December 2019 establishing the list of equipment provided for in Article L. 34-11 of the French Post and Electronic Communications Code
+## DECREE of 6 December 2019 establishing the list of equipment provided for in Article L. 34-11 of the French Post and Electronic Communications Code
+
+### Source: [Decree of 6 December 2019 establishing the list of equipment provided for in Article L. 34-11 of the French Post and Electronic Communications Code](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000039455672&dateTexte=20191222)
+
 ### Article 1
 - The list, referred to in I of Article L. 34-11 of the French Post and Electronic Communications Code, of equipment whose operation is subject to prior authorization is given in the appendix to this Decree.
 
