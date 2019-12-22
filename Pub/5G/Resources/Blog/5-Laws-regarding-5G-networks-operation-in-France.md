@@ -1,4 +1,4 @@
-# Laws regarding 5G exploitation in France
+# Laws regarding 5G networks operation in France
 
 # Context
 - Recently, France came up with a new batch of laws regarding the operation of radio networks. 
