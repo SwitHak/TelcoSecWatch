@@ -71,7 +71,7 @@
 - The bill is fullly reproduced below:
     ```
     SECTION 1. PROHIBITION ON SHARING OF UNITED STATES
-    INTELLIGENCE WITH COUNTRIES THAT PER5 MIT OPERATION OF HUAWEI FIFTH GENERA6 TION TELECOMMUNICATIONS TECHNOLOGY WITHIN THEIR BORDERS.
+    INTELLIGENCE WITH COUNTRIES THAT PER5 MIT OPERATION OF HUAWEI FIFTH GENERATION TELECOMMUNICATIONS TECHNOLOGY WITHIN THEIR BORDERS.
     (a) PROHIBITION.—Intelligence of or under the control of the United States, including intelligence products of the intelligence community, may not be shared with any country that permits operation within its national borders of fifth generation (5G) telecommunications technology of Huawei Technologies Co. Ltd..
     (b) DEFINITIONS.—In this section, the terms ‘‘intelligence’’ and ‘‘intelligence community’’ have the meaning given such terms in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
      ```
