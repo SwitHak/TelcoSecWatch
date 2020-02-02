@@ -160,7 +160,7 @@
 ## INFORMATION - DATALEAK - SPRINT
 - Sprint Social care a support internal platform was exposed. This exposed sensitive data and also instructions and manual to access Sprint Internal tools.
 - Source:
- - [Krebs Article](https://krebsonsecurity.com/2020/01/sprint-exposed-customer-support-site-to-web/)
+  - [Krebs Article](https://krebsonsecurity.com/2020/01/sprint-exposed-customer-support-site-to-web/)
 
 #### Postscriptum
 If you spotted errors, missing information or anything you want to report, feel free to contact me on Twitter: [@SwitHak](https://twitter.com/swithak/)
