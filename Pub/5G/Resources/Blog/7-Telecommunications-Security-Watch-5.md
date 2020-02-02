@@ -10,7 +10,7 @@
 - Very good article reminding us how we should also be preoccupied by 3PA (Third parties Access) and the competence externalisation which was driven by businesses departments.
 - You should definitively read it !
 - Source:
-  - [](https://berthub.eu/articles/posts/5g-elephant-in-the-room/)
+  - [5g Elephant In The Room](https://berthub.eu/articles/posts/5g-elephant-in-the-room/)
 
 ## HUAWEI- Situation Point
 ### UK
